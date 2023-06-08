@@ -19,7 +19,7 @@
 	<h1>Welcome to My Homepage</h1>
 
 	<div >
-		<img alt="배경화면" src="img/space.png" width="1024" height="500">
+		<img alt="배경화면" src="img/농담곰.jpg" width="400" height="400">
 	</div>
 </div>
 	<div>

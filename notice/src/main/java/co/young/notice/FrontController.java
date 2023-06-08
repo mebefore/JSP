@@ -27,6 +27,9 @@ import co.young.notice.member.command.MemberList;
 import co.young.notice.member.command.MemberLogout;
 import co.young.notice.member.command.memberLogin;
 import co.young.notice.member.command.memberLogingo;
+import co.young.notice.prodcut.command.productList;
+import co.young.notice.product.command.productInsertForm;
+import co.young.notice.product.command.productInsertgo;
 
 
 @WebServlet("*.do")
@@ -57,6 +60,11 @@ public class FrontController extends HttpServlet {
 		map.put("/memberLogin.do", new memberLogin()); //로그인 기능
 		map.put("/memberLogingo.do", new memberLogingo()); //로그인 기능
 		map.put("/memberLogout.do", new MemberLogout()); //로그아웃 처리
+		
+		//제품관리
+		map.put("/productList.do", new productList()); //제품조회
+		map.put("/productInsertForm.do", new productInsertForm()); //제품 넣기?
+		map.put("/productInsertgo.do", new productInsertgo());
 	}
 
 	

@@ -52,6 +52,7 @@
              	 </c:if>
              	 
              	
+                <li><a href="productList.do">제품 관리</a></li>
                 
                  <li><a href="memberList.do">멤버목록 보기</a></li>
                  
