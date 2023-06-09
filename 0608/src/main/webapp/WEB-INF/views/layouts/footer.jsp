@@ -8,6 +8,7 @@
 </head>
 <body>
 <div>
+
 <footer class="bg-white py-4 mt-auto">
      <div class="container px-5">
          <div class="row align-items-center justify-content-between flex-column flex-sm-row">
@@ -22,6 +23,7 @@
          </div>
      </div>
 </footer>
+
 	<hr>
 	<h1>나는 푸터입니다.</h1>
 </div>
