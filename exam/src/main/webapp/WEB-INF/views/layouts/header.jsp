@@ -8,6 +8,7 @@
 </head>
 <body>
 <div>
+ <jsp:include page="../main/menu.jsp" /> 
 헤더입니다
 <hr>
 </div>

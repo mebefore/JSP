@@ -7,13 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-
-
-<div>
-
-	메인입니다
-
-</div>
-	
+	<jsp:forward page="main.do"></jsp:forward>
 </body>
 </html>

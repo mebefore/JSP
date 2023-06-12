@@ -12,7 +12,7 @@
 	 <header>
      
          <nav>
-			<a href="memberJoin.do">회원가입</a>
+			 <a href="memberJoin.do">장바구니</a>
          </nav>
      </header>
 </body>
